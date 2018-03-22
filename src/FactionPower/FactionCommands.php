@@ -887,8 +887,8 @@ class FactionCommands {
 					/////////////////////////////// ABOUT ///////////////////////////////
 					
 					if(strtolower($args[0] == 'about')) {
-						$sender->sendMessage(TextFormat::GREEN . "\nFactionPower v1.7.3 by " . TextFormat::BOLD . "FallenTech-PE! Infernus101");
-						$sender->sendMessage(TextFormat::LIGHT_PURPLE . "\nJoin Now :-" . TextFormat::AQUA . "IP : FallenTech.tk \nPort : 19132");
+						$sender->sendMessage(TextFormat::GREEN . "\nFaction v1.0 by " . TextFormat::BOLD . "Aversion-PE! MangoTheDev");
+						$sender->sendMessage(TextFormat::LIGHT_PURPLE . "\nJoin Now :-" . TextFormat::AQUA . "Have fun playing Aversion!");
 					}
 				}
 			}
