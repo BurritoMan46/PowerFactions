@@ -31,7 +31,6 @@ use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\block\Snow;
 use pocketmine\math\Vector3;
 
-
 class FactionMain extends PluginBase implements Listener {
 	
 	public $db;
