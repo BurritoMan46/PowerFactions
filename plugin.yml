@@ -1,12 +1,12 @@
 name: PowerFactions
 author: Infernus101
 description: A Plugin For Easily Managing Factions and Faction Power.
-version: 1.7.3
+version: 1.0
 main: FactionPower\FactionMain
-api: [2.0.0]
+api: [3.0.0-ALPHA11]
 commands:
   f:
-    description: use /f help for all parameters
+    description: use /f help for all commands!
     permission: f.command
 permissions:
   f.command:
